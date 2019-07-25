@@ -1,0 +1,4 @@
+humans
+monkeys
+dogs
+horses
